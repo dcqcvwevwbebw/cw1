@@ -6,7 +6,8 @@ namespace Cwiczenia1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!s");
+            //qq
+            Console.WriteLine("Hello World!");
         }
     }
 }
